@@ -1,0 +1,5 @@
+fitdecode==0.10.0
+pandas==1.5.2
+plotly==5.11.0
+streamlit==1.20.0
+streamlit_option_menu==0.3.6
