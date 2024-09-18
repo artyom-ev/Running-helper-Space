@@ -293,8 +293,3 @@ def app():
             
         else:
             st.warning('Upload CSV file of your summary activities and ZIP file with all activities before executing the code.')
-        
-
-    
-    
-   
