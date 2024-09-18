@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment created by Poetry
+# Usually stored outside the project, but include if Poetry puts it inside the project directory
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Poetry lock file backup
+poetry.lock.*
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+.env/
+
+# Testing-related files
+.pytest_cache/
+.coverage
+.tox/
+
+# IDE-specific files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Streamlit specific
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
