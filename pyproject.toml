@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "Running-helper-Space"
+version = "0.1.0"
+description = ""
+authors = ["artyom-ev"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fitdecode = "*"
+pandas = "*"
+plotly = "*"
+streamlit = "*"
+streamlit-option-menu = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
