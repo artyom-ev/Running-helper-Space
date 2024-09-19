@@ -12,6 +12,7 @@ pandas = "*"
 plotly = "*"
 streamlit = "*"
 streamlit-option-menu = "*"
+altair = "^4.0"
 
 
 [build-system]
